@@ -1,0 +1,8 @@
+Dependecy: opencv
+
+Usage:
+	cd to the src folder with makefile within it.
+	run 'make'.
+	run './app source_image destination_image'. (The destination image needs an extension)
+
+
